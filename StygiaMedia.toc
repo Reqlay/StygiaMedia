@@ -3,7 +3,7 @@
 ## Title: |c00FF9696StygiaMedia|r
 ## Notes: Weewoo
 ## IconTexture: Interface\AddOns\StygiaMedia\image\WoW_Token01
-## Version: 1.2
+## Version: 1.2.1
 ## Author: Stygia
 ## Dependencies: BigWigs, SharedMedia
 

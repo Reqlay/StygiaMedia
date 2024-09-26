@@ -30,7 +30,7 @@ LSM:Register("sound","|c00FF9696Lehmä 1|r", [[Interface\Addons\StygiaMedia\soun
 LSM:Register("sound","|c00FF9696Lehmä 2|r", [[Interface\Addons\StygiaMedia\sound\lehmä2.mp3]])
 LSM:Register("sound","|c00FF9696Aggro Human|r", [[Interface\Addons\StygiaMedia\sound\aggro.mp3]])
 LSM:Register("sound","|c00FF9696Neckers|r", [[Interface\Addons\StygiaMedia\sound\neckers.mp3]])
-LSM:Register("sound","|c00FF9696Tonttu Died|r", [[Interface\Addons\StygiaMedia\sound\tonttu-ied.mp3]])
+LSM:Register("sound","|c00FF9696Tonttu Died|r", [[Interface\Addons\StygiaMedia\sound\tonttu-died.mp3]])
 LSM:Register("sound","|c00FF9696Tonttu Balls|r", [[Interface\Addons\StygiaMedia\sound\tonttu-balls.mp3]])
 LSM:Register("sound","|c00FF9696Herra Armahda (Short)|r", [[Interface\Addons\StygiaMedia\sound\herra-armahda-short.mp3]])
 LSM:Register("sound","|c00FF9696Herra Armahda (Long)|r", [[Interface\Addons\StygiaMedia\sound\herra-armahda-long.mp3]])
