@@ -35,6 +35,9 @@ LSM:Register("sound","|c00FF9696Tonttu Balls|r", [[Interface\Addons\StygiaMedia\
 LSM:Register("sound","|c00FF9696Herra Armahda (Short)|r", [[Interface\Addons\StygiaMedia\sound\herra-armahda-short.mp3]])
 LSM:Register("sound","|c00FF9696Herra Armahda (Long)|r", [[Interface\Addons\StygiaMedia\sound\herra-armahda-long.mp3]])
 LSM:Register("sound","|c00FF9696Gock Sharing|r", [[Interface\Addons\StygiaMedia\sound\gock-sharing.mp3]])
+LSM:Register("sound","|c00FF9696Dexui Victory|r", [[Interface\Addons\StygiaMedia\sound\dexui-victory.ogg]])
+LSM:Register("sound","|c00FF9696Vinku Steaming Hot Sex|r", [[Interface\Addons\StygiaMedia\sound\vinku-steaming-sex.ogg]])
+LSM:Register("sound","|c00FF9696Smile Null Sliver|r", [[Interface\Addons\StygiaMedia\sound\smile-null-sliver.ogg]])
 --WA Countdown
 LSM:Register("sound","|c00FF96961|r", [[Interface\AddOns\StygiaMedia\sound\countdown\1.ogg]])
 LSM:Register("sound","|c00FF96962|r", [[Interface\AddOns\StygiaMedia\sound\countdown\2.ogg]])
